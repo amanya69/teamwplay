@@ -1,1 +1,2 @@
 # teamwplay
+Alimov Amanbek
